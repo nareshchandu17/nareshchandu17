@@ -13,7 +13,7 @@ Full-stack engineer (MERN) with hands-on experience architecting end-to-end web 
 
 ---
 
-- 🔭 Currently working as **Full-stack engineer (MERN)** at **Google Cloud GenAI**
+- 🔭 Currently working as **Currently participating in the Google Cloud GenAI Virtual Internship, developing AI-powered full-stack applications using Google Cloud AI tools, APIs, and prompt engineering workflows.**
 - 🌱 Learning: **Generative AI application development using Google Cloud tools and APIs; prompt engineering and AI/ML API integration.**
 - 💬 Ask me about: **Full-stack development using MERN, Data Structures & Algorithms, AI application development.**
 - 📍 Based in: **Vijayawada, AP**
