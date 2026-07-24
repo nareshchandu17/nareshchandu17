@@ -1,7 +1,7 @@
 <h3 align="center">
   
   
- # 🚀 Welcome to My GitHub Profile 🚀
+ # 🚀 Welcome to My GitHub Profile 
 
 ```text
 ███╗   ██╗ █████╗ ██████╗ ███████╗███████╗██╗  ██╗      ██████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗ ██╗   ██╗
@@ -12,11 +12,11 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝      ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
 ```
 
-### 🚀 Full Stack Developer • Backend Engineer • AI Builder
+### 🚀 Full Stack Developer | Backend Engineer 
 
 <div align="center" >
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Building+Scalable+Web+Applications;Real-Time+Systems+%26+Secure+Authentication;AI-Powered+Product+Development)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Building+Scalable+Web+Applications;Engineering+RESTful+APIs;Real-Time+Communication+Systems;Secure+Authentication+%26+Authorization;AI-Driven+Product+Development)](https://git.io/typing-svg)
   
 </div>
 
