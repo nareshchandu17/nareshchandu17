@@ -98,22 +98,19 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nareshchandu17&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nareshchandu17&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nareshchandu17&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Analytics
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nareshchandu17&theme=one_dark_pro&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=nareshchandu17&show_icons=true&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img width="49%" src="https://streak-stats.demolab.com?user=nareshchandu17&theme=one_dark_pro&hide_border=true"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nareshchandu17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nareshchandu17&layout=compact&theme=one_dark_pro&hide_border=true"/>
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=nareshchandu17&icon=7&color=2)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f80ed,100:56ccf2&height=2"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nareshnaidu_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandunaresh/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/nareshchandu/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Naresh-chandu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nareshchandu27@gmail.com) 
