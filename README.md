@@ -1,13 +1,25 @@
-<h3 align="center">👋 Hi there, I'm NARESH CHANDU</h3>
+<h3 align="center">
+  
+  
+  # 🚀 Welcome to My GitHub Profile 🚀
 
-<p align="center">
-  <a href="">Website</a> •
-  <a href="https://twitter.com/">Twitter</a> •
-  <a href="https://linkedin.com/in/">LinkedIn</a> •
-  <a href="https://github.com/nareshchandu17">GitHub</a>
-</p>
+```text
+███╗   ██╗ █████╗ ██████╗ ███████╗███████╗██╗  ██╗
+████╗  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝██║  ██║
+██╔██╗ ██║███████║██████╔╝█████╗  ███████╗███████║
+██║╚██╗██║██╔══██║██╔══██╗██╔══╝  ╚════██║██╔══██║
+██║ ╚████║██║  ██║██║  ██║███████╗███████║██║  ██║
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
 
----
+ ██████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗ ██╗   ██╗
+██╔════╝██║  ██║██╔══██╗████╗  ██║██╔══██╗██║   ██║
+██║     ███████║███████║██╔██╗ ██║██║  ██║██║   ██║
+██║     ██╔══██║██╔══██║██║╚██╗██║██║  ██║██║   ██║
+╚██████╗██║  ██║██║  ██║██║ ╚████║██████╔╝╚██████╔╝
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
+```
+
+### 🚀 Full Stack Developer • Backend Engineer • AI Builder
 
 Full-stack engineer (MERN) with hands-on experience architecting end-to-end web applications — from RESTful API design and database schema modeling to responsive, performant frontends. Proficient in component-based UI architecture, server-side rendering, authentication flows, and asynchronous data handling. Strong problem-solving foundation with 200+ DSA problems solved.
 
