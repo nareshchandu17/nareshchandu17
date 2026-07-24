@@ -13,7 +13,12 @@
 ```
 
 ### 🚀 Full Stack Developer • Backend Engineer • AI Builder
-Full-stack engineer (MERN) with hands-on experience architecting end-to-end web applications — from RESTful API design and database schema modeling to responsive, performant frontends. Proficient in component-based UI architecture, server-side rendering, authentication flows, and asynchronous data handling. Strong problem-solving foundation with 200+ DSA problems solved.
+
+<div align="center" >
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Building+Scalable+Web+Applications;Real-Time+Systems+%26+Secure+Authentication;AI-Powered+Product+Development)](https://git.io/typing-svg)
+  
+</div>
 
 ---
 
@@ -32,9 +37,6 @@ Full-stack engineer (MERN) with hands-on experience architecting end-to-end web 
 ⚡ Outside of building projects, I'm focused on writing cleaner code, improving engineering practices, and solving DSA problems consistently.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nareshnaidu_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandunaresh/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/nareshchandu/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Naresh-chandu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nareshchandu27@gmail.com) 
- 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend Development
@@ -112,5 +114,9 @@ Full-stack engineer (MERN) with hands-on experience architecting end-to-end web 
 
 ---
 [![](https://komarev.com/ghpvc/?username=nareshchandu17&icon=7&color=2)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nareshnaidu_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandunaresh/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/nareshchandu/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Naresh-chandu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nareshchandu27@gmail.com) 
+ 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
