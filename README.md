@@ -97,26 +97,26 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+<!-- ========================================================= -->
+<!--                   📊 GITHUB ANALYTICS                      -->
+<!-- ========================================================= -->
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em"
-       src="https://github-readme-stats.shion.dev/api?username=nareshchandu17&show_icons=true&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img height="170em"
-       src="https://github-readme-stats.shion.dev/api/top-langs/?username=nareshchandu17&layout=compact&theme=one_dark_pro&hide_border=true&card_width=320" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=nareshchandu17&show_icons=true&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nareshchandu17&layout=compact&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img width="70%"
-       src="https://streak-stats.demolab.com?user=nareshchandu17&theme=one-dark-pro&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=nareshchandu17&theme=one-dark-pro&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=nareshchandu17&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nareshchandu17&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 </p>
+
+
 
 
 ## 🌐 Socials:
