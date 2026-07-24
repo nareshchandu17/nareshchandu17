@@ -116,11 +116,57 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nareshchandu17&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 </p>
 
+<!-- ========================================================= -->
+<!--                     🤝 LET'S CONNECT                       -->
+<!-- ========================================================= -->
 
+## 🤝 Let's Connect
 
+<p align="center">
+I'm always open to discussing software engineering, backend development, AI-powered products, open-source collaborations, internships, and full-time opportunities.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nareshnaidu_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandunaresh/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/nareshchandu/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Naresh-chandu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nareshchandu27@gmail.com) 
- 
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://nareshchanduportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/chandunaresh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Chandunare80326" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:nareschandu27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+917013731468">
+    <img src="https://img.shields.io/badge/Mobile-34A853?style=for-the-badge&logo=googlemessages&logoColor=white" />
+  </a>
+</p>
+---
+
+---
+
+<!-- ========================================================= -->
+<!--                 🐍 CONTRIBUTION SNAKE                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nareshchandu17/nareshchandu17/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nareshchandu17/nareshchandu17/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nareshchandu17/nareshchandu17/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+  <br>
+  If you like my work, consider giving a ⭐ to my repositories.
+</p>
