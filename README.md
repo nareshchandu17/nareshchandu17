@@ -13,8 +13,19 @@ Full-stack engineer (MERN) with hands-on experience architecting end-to-end web 
 
 ---
 
-# 💫 About Me:
-💻 I'm currently working on Full Stack MERN Applications & AI-powered Web Projects<br><br>🤝 I'm looking to collaborate on Open Source, SaaS & AI-integrated Full Stack Projects<br><br>🛠️ I'm looking for help with System Design, Scalable Backend Architecture & DevOps<br><br>🌱 I'm currently learning Advanced React, Backend Engineering, Prompt Engineering & Machine Learning<br><br>💬 Ask me about React, Tailwind CSS, MERN Stack, Full Stack Projects & Prompt Engineering<br><br>⚡ Fun fact: I love turning complex ideas into real-world web applications quickly using AI-assisted development
+## 💫 About Me
+
+💻 Building full-stack applications with a strong focus on backend architecture and scalable APIs.
+
+🚀 Currently developing products that combine modern web technologies with practical AI integrations.
+
+🤝 Open to collaborating on backend systems, SaaS products, and meaningful open-source projects.
+
+🌱 Currently exploring system design, distributed systems, Redis, Docker, and production-grade backend engineering.
+
+💬 Happy to discuss Next.js, Node.js, Express.js, MongoDB, authentication, REST APIs, and software architecture.
+
+⚡ Outside of building projects, I'm focused on writing cleaner code, improving engineering practices, and solving DSA problems consistently.
 
 
 ## 🌐 Socials:
