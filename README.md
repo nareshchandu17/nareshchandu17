@@ -97,6 +97,253 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+
+
+# 🌟 Featured Projects
+
+> A collection of production-ready applications showcasing full-stack development, AI integration, and modern web engineering.
+
+<table>
+<tr>
+
+<td width="42%" valign="top">
+
+<a href="https://qwikbite.vercel.app/">
+<img src="./assets/qwikbite.png" alt="QwikBite"/>
+</a>
+
+</td>
+
+<td width="58%" valign="top">
+
+### 🍽️ QwikBite
+
+A modern food ordering platform designed for a fast, intuitive, and seamless ordering experience with a scalable full-stack architecture.
+
+#### ✨ Highlights
+
+- ⚡ Responsive User Experience
+- 🔐 Authentication & Authorization
+- 🍕 Interactive Food Ordering
+- 📱 Mobile-First Design
+- 🚀 Optimized Performance
+
+#### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind"/>
+
+<br><br>
+
+<a href="https://qwikbite.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/nareshchandu17/QwikBite">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="42%" valign="top">
+
+<img src="./assets/movieflix.png"/>
+
+</td>
+
+<td width="58%" valign="top">
+
+### 🎬 MovieFlix
+
+A feature-rich OTT streaming platform delivering an immersive entertainment experience with modern UI, secure authentication, and real-time watch party functionality.
+
+#### ✨ Highlights
+
+- 🎥 Watch Party
+- 💳 Razorpay Integration
+- 🔐 Secure Authentication
+- ❤️ Favorites & Watchlist
+- 📺 Responsive Streaming UI
+
+#### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind"/>
+
+<br><br>
+
+<a href="https://movieflix-eight-lake.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/nareshchandu17/movieflix">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="42%">
+
+<img src="./assets/ai_travel_planner.png"/>
+
+</td>
+
+<td width="58%">
+
+### ✈️ AI Travel Planner
+
+An AI-powered travel assistant that generates personalized itineraries, recommends destinations, and simplifies trip planning.
+
+#### ✨ Highlights
+
+- 🤖 AI Trip Generation
+- 🌍 Smart Recommendations
+- 📍 Destination Planning
+- ☁️ Weather Insights
+- 💰 Budget Optimization
+
+#### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,tailwind"/>
+
+<br><br>
+
+Live Demo • Source Code
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="42%">
+
+<img src="./assets/floravia.png"/>
+
+</td>
+
+<td width="58%">
+
+### 🌱 Floravia AI
+
+An AI-powered plant care assistant capable of identifying plant diseases through image analysis and providing intelligent care recommendations.
+
+#### ✨ Highlights
+
+- 🌿 Disease Detection
+- 🤖 Gemini Vision API
+- 📷 Image Analysis
+- 💡 AI Recommendations
+- 🌱 Plant Health Tracking
+
+#### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb"/>
+
+<br><br>
+
+Live Demo • Source Code
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="42%">
+
+<img src="./assets/portfolio.png"/>
+
+</td>
+
+<td width="58%">
+
+### 💼 Portfolio Website
+
+A modern developer portfolio showcasing projects, technical skills, achievements, and interactive animations with a strong focus on user experience.
+
+#### ✨ Highlights
+
+- 🎨 Premium UI
+- ⚡ Interactive Animations
+- 📱 Responsive Design
+- 🚀 Performance Optimized
+- 📂 Project Showcase
+
+#### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
+
+<br><br>
+
+Live Demo • Source Code
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="42%">
+
+<img src="./assets/pronounciation.png"/>
+
+</td>
+
+<td width="58%">
+
+### 🎤 Pronunciation Analyzer
+
+An AI-assisted speech evaluation platform that analyzes pronunciation quality and provides detailed feedback to improve spoken communication.
+
+#### ✨ Highlights
+
+- 🎙 Speech Analysis
+- 📊 Performance Metrics
+- 🧠 AI Feedback
+- 📈 Progress Tracking
+- ⚡ Interactive Dashboard
+
+#### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+<br><br>
+
+Live Demo • Source Code
+
+</td>
+
+</tr>
+</table>
+
+---
 <!-- ========================================================= -->
 <!--                   📊 GITHUB ANALYTICS                      -->
 <!-- ========================================================= -->
